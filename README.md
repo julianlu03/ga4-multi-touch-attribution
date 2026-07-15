@@ -54,13 +54,13 @@ Looking only at multi-touch purchasers, the number of days between a user's firs
 
 ## Findings
 
-**![Model comparison, full population](images/model_comparison_full.png)**
+**![Model comparison, full population](images/model_comparison_full_final.png)**
 
 Comparing the three models, the Last-Touch model assigned noticeably less credit to organic search and more credit to referral traffic than the multi-touch models did. This traces back to where these channels typically sit in the funnel: organic search is more likely to be an early-funnel touchpoint, while referral traffic is systematically more likely to be the last touchpoint before purchase.
 
 Filtering to multi-touch journeys only, this gap widened and became even more apparent.
 
-**![Model comparison, multi-touch only](images/model_comparison_multitouch.png)**
+**![Model comparison, multi-touch only](images/model_comparison_multitouch_final.png)**
 
 ---
 
