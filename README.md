@@ -2,7 +2,7 @@
 
 *Dataset: `bigquery-public-data.ga4_obfuscated_sample_ecommerce` (BigQuery, Google Merchandise Store) · Tools: BigQuery SQL, Python (Pandas)*
 
-[Tableau Dashboard →](#) *(placeholder link)*
+[Tableau Dashboard →](#) *https://public.tableau.com/views/GoogleMerchandiseAttributionProject/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 
